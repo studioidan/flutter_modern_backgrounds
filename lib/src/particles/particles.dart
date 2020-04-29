@@ -30,12 +30,12 @@ class _ParticlesState extends State<Particles> with TickerProviderStateMixin {
     });
 
     // dots add
-    Timer.periodic(Duration(milliseconds: 1000), (timer) {
+    Timer.periodic(Duration(milliseconds: 400), (timer) {
       addPoint();
     });
 
     // dots remove
-    Timer.periodic(Duration(milliseconds: 500), (timer) {
+    Timer.periodic(Duration(milliseconds: 700), (timer) {
       dots.removeWhere((d) => d.tween.status == AnimationStatus.completed);
     });
   }
@@ -84,7 +84,7 @@ class MyPainter extends CustomPainter {
       ..color = lineColor
       ..strokeCap = StrokeCap.round
       ..style = PaintingStyle.fill
-      ..strokeWidth = 0.7;
+      ..strokeWidth = 0.8;
   }
 
   @override
