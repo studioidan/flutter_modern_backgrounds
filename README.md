@@ -1,6 +1,6 @@
 # Flutter modern backgrounds
 
-<img src="https://github.com/studioidan/flutter_modern_backgrounds/blob/master/art/screen1.gif" width="340px" />
+<img src="https://github.com/studioidan/flutter_modern_backgrounds/blob/master/art/particles.gif" width="340px" />
 
 
 ### Install
@@ -27,7 +27,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Container(
-        child: MovingDots(
+        child: Particles(
              dotColor: Colors.white,   // optional
              lineColor: Colors.amber, // optional
              bgColor:   Colors.grey   // optional
