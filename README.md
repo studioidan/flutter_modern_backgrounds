@@ -1,14 +1,41 @@
-# fluttermodernbackgrounds
+# Flutter modern backgrounds
 
-A new Flutter package.
+<img src="https://github.com/studioidan/flutter_modern_backgrounds/blob/master/art/screen1.gif" width="340px" />
 
-## Getting Started
 
-This project is a starting point for a Dart
-[package](https://flutter.dev/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
+### Install
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Add this line to pubspec.yaml
+
+```
+dependencies:
+     flutter_modern_backgrounds: ^0.0.1
+```
+
+
+### Import
+```
+import 'package:flutter_modern_backgrounds/flutter_modern_backgrounds.dart';
+
+```
+
+### Usage
+
+```
+class _HomePageState extends State<HomePage> {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      body: Container(
+        child: MovingDots(
+             dotColor: Colors.white,   // optional
+             lineColor: Colors.amber, // optional
+             bgColor:   Colors.grey   // optional
+             size: Size(400, 400),     // optional
+            ),
+      ),
+    );
+  }
+}
+```
+

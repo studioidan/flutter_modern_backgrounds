@@ -1,8 +1,9 @@
 name: flutter_modern_backgrounds
-description: Modern background for flutter apps.
+description: Modern backgrounds for flutter apps
 version: 0.0.1
 author: Idan Ben Shimon
 homepage: http://popapp.co.il
+repository: https://github.com/studioidan/flutter_modern_backgrounds
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
