@@ -10,7 +10,7 @@ Add this line to pubspec.yaml
 
 ```
 dependencies:
-     flutter_modern_backgrounds: ^0.0.1
+     flutter_modern_backgrounds: ^0.0.2
 ```
 
 
