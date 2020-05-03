@@ -23,7 +23,7 @@ class _RectangleRainPageState extends State<RectangleRainPage> {
               ),
             ),
             RectangleRain(
-              colors: [Colors.white, Colors.pink, Colors.yellowAccent, Colors.blueGrey],
+              colors: [Colors.white.withAlpha(160)],
               // dotColor: Colors.white,
               // lineColor: Colors.amber,
               // bgColor: Colors.pink
