@@ -1,6 +1,5 @@
+import 'package:example/screens/rectangle-rain-page.dart';
 import 'package:flutter/material.dart';
-
-import 'screens/particles-page.dart';
 
 void main() {
   runApp(MyApp());
@@ -17,7 +16,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: ParticlesPage(),
+      home: RectangleRainPage(),
     );
   }
 }
