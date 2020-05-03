@@ -1,8 +1,8 @@
 # Flutter modern backgrounds
 
 #### Particles
-<img src="https://github.com/studioidan/flutter_modern_backgrounds/blob/master/art/particles1.gif" width="340px" />
 <img src="https://github.com/studioidan/flutter_modern_backgrounds/blob/master/art/particles2.gif" width="340px" />
+<img src="https://github.com/studioidan/flutter_modern_backgrounds/blob/master/art/particles1.gif" width="340px" />
 
 #### Rectangle Rain
 <img src="https://github.com/studioidan/flutter_modern_backgrounds/blob/master/art/rectangle-rain1.gif" width="340px" />
