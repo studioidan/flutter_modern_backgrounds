@@ -12,7 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  tinycolor: ^1.0.2
+  tinycolor: ^1.0.3
 
 
 dev_dependencies:
