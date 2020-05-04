@@ -18,7 +18,6 @@
     <td><img src="https://github.com/studioidan/flutter_modern_backgrounds/blob/master/art/rectangle-rain1.gif" width=240 height=480></td>
   </tr>
  </table>
-#### Particles
 
 
 ### Install
