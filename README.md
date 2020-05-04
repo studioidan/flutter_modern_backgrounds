@@ -1,12 +1,25 @@
 # Flutter modern backgrounds
 
-#### Particles
-<img src="https://github.com/studioidan/flutter_modern_backgrounds/blob/master/art/particles2.gif" width="340px" />
-<img src="https://github.com/studioidan/flutter_modern_backgrounds/blob/master/art/particles1.gif" width="340px" />
 
-#### Rectangle Rain
-<img src="https://github.com/studioidan/flutter_modern_backgrounds/blob/master/art/rectangle-rain2.gif" width="340px" />
-<img src="https://github.com/studioidan/flutter_modern_backgrounds/blob/master/art/rectangle-rain1.gif" width="340px" />
+<table>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Particles</td>
+    <td><img src="https://github.com/studioidan/flutter_modern_backgrounds/blob/master/art/particles1.gif" width=270 height=480></td>
+    <td><img src="https://github.com/studioidan/flutter_modern_backgrounds/blob/master/art/particles2.gif" width=270 height=480></td>
+  </tr>
+  <tr>
+    <td>Rectangle Rain</td>
+    <td><img src="https://github.com/studioidan/flutter_modern_backgrounds/blob/master/art/rectangle-rain2.gif" width=270 height=480></td>
+    <td><img src="https://github.com/studioidan/flutter_modern_backgrounds/blob/master/art/rectangle-rain1.gif" width=270 height=480></td>
+  </tr>
+ </table>
+#### Particles
+
 
 ### Install
 
@@ -26,7 +39,7 @@ import 'package:flutter_modern_backgrounds/flutter_modern_backgrounds.dart';
 
 ### Usage
 
-### Particles
+## Particles
 ```
 class _HomePageState extends State<HomePage> {
   @override
@@ -45,7 +58,7 @@ class _HomePageState extends State<HomePage> {
 }
 ```
 
-### Rectangle Rain
+## Rectangle Rain
 ```
 class _HomePageState extends State<HomePage> {
   @override
