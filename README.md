@@ -9,13 +9,13 @@
   </tr>
   <tr>
     <td>Particles</td>
-    <td><img src="https://github.com/studioidan/flutter_modern_backgrounds/blob/master/art/particles1.gif" width=240 height=480></td>
-    <td><img src="https://github.com/studioidan/flutter_modern_backgrounds/blob/master/art/particles2.gif" width=240 height=480></td>
+    <td><img src="https://github.com/studioidan/flutter_modern_backgrounds/blob/master/art/particles1.gif" width=230 height=480></td>
+    <td><img src="https://github.com/studioidan/flutter_modern_backgrounds/blob/master/art/particles2.gif" width=230 height=480></td>
   </tr>
   <tr>
     <td>Rectangle Rain</td>
-    <td><img src="https://github.com/studioidan/flutter_modern_backgrounds/blob/master/art/rectangle-rain2.gif" width=240 height=480></td>
-    <td><img src="https://github.com/studioidan/flutter_modern_backgrounds/blob/master/art/rectangle-rain1.gif" width=240 height=480></td>
+    <td><img src="https://github.com/studioidan/flutter_modern_backgrounds/blob/master/art/rectangle-rain2.gif" width=230 height=480></td>
+    <td><img src="https://github.com/studioidan/flutter_modern_backgrounds/blob/master/art/rectangle-rain1.gif" width=230 height=480></td>
   </tr>
  </table>
 
