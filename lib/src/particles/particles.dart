@@ -36,6 +36,7 @@ class _ParticlesState extends State<Particles> with TickerProviderStateMixin {
 
     // dots remove
     Timer.periodic(Duration(milliseconds: 700), (timer) {
+      //test
       dots.removeWhere((d) => d.tween.status == AnimationStatus.completed);
     });
   }
